@@ -1,4 +1,3 @@
-@media screen and (max-width: 481px){
 *{
 	margin: 0;
 	padding: 0;
@@ -85,5 +84,4 @@ border: none;
 marquee{
 	color: #fff;
 	font-family: lorem-ipsum;
-}
 }
