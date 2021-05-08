@@ -135,7 +135,7 @@
 	}
 
 	.mouse-icon {
-		position: relative;
+		position: absolute;
 		left: 50%;
 		bottom: 40px;
 		border: 2px solid #fff;
