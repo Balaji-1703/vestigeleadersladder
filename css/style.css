@@ -98,7 +98,7 @@
 		position: relative;
 		background-image: url(../images/header-bg.jpg);
 		background-position: 60% 0;
-		background-repeat: no-repeat;
+		background-repeat: repeat;
 		background-size: cover;
 	}
 
@@ -117,12 +117,12 @@
 
 	.st-header-title{
 		color: #fff;
-		padding-top: 35px;
+		padding-top: 45px;
 	}
 
 	.st-header-title h2{
 		font-size: 40px;
-		margin-bottom: 5px;
+		margin-bottom: 20px;
 	}
 
 	.st-header-title h2 span{
