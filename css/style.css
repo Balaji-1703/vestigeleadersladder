@@ -121,8 +121,8 @@
 	}
 
 	.st-header-title h2{
-		font-size: 56px;
-		margin-bottom: 20px;
+		font-size: 45px;
+		margin-bottom: 15px;
 	}
 
 	.st-header-title h2 span{
@@ -135,7 +135,7 @@
 	}
 
 	.mouse-icon {
-		position: absolute;
+		position: relative;
 		left: 50%;
 		bottom: 40px;
 		border: 2px solid #fff;
